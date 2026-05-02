@@ -1,0 +1,23 @@
+body{
+    background: blue url('https://www.w3schools.com/w3images/wedding_couple.jpg') no-repeat center/cover;
+    color: white;
+    
+}
+.jane{
+    
+    text-align:center ;
+    margin-top: 375px;
+    font-size: 100px;
+}
+.get{
+    
+    text-align:center ;
+    font-size: 50px;
+   
+}
+.date{
+   
+    text-align:center ;
+    font-size: 50px;
+   
+}
