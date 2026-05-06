@@ -1,0 +1,36 @@
+* {
+    
+    box-sizing: border-box;
+}
+h1{
+    
+    text-align: center;
+    margin-top: 300px;
+    color: blue;
+ }
+ form {
+    border: 2px solid whitesmoke; 
+    padding: 20px;
+    margin-right: auto; 
+    margin-left: auto;  */
+    
+
+    margin: 350px auto;
+
+    width: 400px;
+
+    border-radius: 10px;
+
+} 
+
+form input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+.Login {
+    border: 25px;
+    background-color: blue;
+    color:white
+}
