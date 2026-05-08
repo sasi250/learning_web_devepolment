@@ -61,10 +61,40 @@
     width: 100%;
 }
 .contact{
-
+    border: 2px solid red;
 }
 .contact form{
     display: grid;
-    margin-top: 30px;
     gap: 1em;
+    margin-bottom: 30px;
+
+}
+form input {
+    width: 100%;
+    
+    margin-bottom: 10px;
+}
+
+form input[type="submit"]{
+    width: fit-content;
+    background-color: black;
+    color: white;
+}
+
+form input:hover{
+    color: white;
+    background-color: grey;
+}
+
+.footer{
+    
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80px;
+}
+
+.footer p{
+    padding-top: 33px;
 }
